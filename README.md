@@ -21,5 +21,6 @@ Run `npm start` or `node .` on your terminal (In Visual Studio Code).
 - It's very simple to set up. Configurations are in config.json file
 - I also made a colors.json file (no idea why, was hoping to make more colors soo, it might be convenient to some of you?)
 - Please read the license
-- I'm looking forward to open source more in the future, to help the community.
+- I'm looking forward to open source more in the future, to help the community!
+- Giving me credits or not, I don't mind. As long as you don't do anything bad with my name.
 - Follow me on GitHub :3 
