@@ -5,5 +5,8 @@
  "AliceBlue": "0xF0F8FF",
  "LightGreen": "0x90EE90",
  "LightSteelBlue": "0xB0C4DE",
- "DeepskyBlue" : "0x00BFFF"
+ "DeepskyBlue" : "0x00BFFF",
+ "CornFlowerBlue": "0x6495ED",
+ "Black": "0x000000",
+ "Peru" : "0xCD853F"
 }
