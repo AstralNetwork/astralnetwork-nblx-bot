@@ -1,6 +1,6 @@
+By yours truly, AstralNetwork 
 
-
-# First Of All
+# Firstly
 
 Requirements
 - Visual Studio Code
