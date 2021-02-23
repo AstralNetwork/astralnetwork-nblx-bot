@@ -5,7 +5,7 @@ By yours truly, AstralNetwork
 Requirements
 - Visual Studio Code
 - Node JS ( https://nodejs.org/en/ )
-- Average knowledge of JavaScript, If you don't, it might be a little bit harder but you can learn it anytime!(you just need to have the will to do so)
+- Average knowledge of JavaScript, If you don't, it might be a little bit harder but you can learn it anytime! (you just need to have the will to do so)
 - Issues? Contact me, astralnetwork#4060 on discord.
 
 First, download the files.
