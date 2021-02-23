@@ -3,7 +3,7 @@ const bot = new Discord.Client();
 const { prefix, token, cookie, color, GroupId } = require("./config.json");
 const nblx = require("noblox.js"); 
 const {Green, Red} = require("./colors.json");
-const bloxy = require("bloxy"); //impostor amogus xd
+const bloxy = require("bloxy"); //impostor amogus 
 const fs = require("fs")
 
 
