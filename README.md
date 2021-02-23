@@ -13,7 +13,7 @@ Open it on Visual Studio Code.
 Also I highly suggest that you turn on Auto Save, hop on VSC, Go to File, scroll down and click on Autosave.
 Open config.json and add the tokens, cookies and prefix yourself.
 Run `npm start` or `node .` on your terminal (In Visual Studio Code).
-*Voila!* Bot is running. Though you need a hosting to make it go online 24/7, I personally suggest Heroku.
+*Voila!* Bot is running. Though you need a hosting to make it go online 24/7, I personally suggest Heroku. More info on it ( https://anidiots.guide/hosting )
 
 # Notes
 
