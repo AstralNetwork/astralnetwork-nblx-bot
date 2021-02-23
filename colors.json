@@ -1,3 +1,9 @@
-{"GREEN" : "0xBEFE80",
-"RED" : "0xCC0000"
+{"Green" : "0xBEFE80",
+"Red" : "0xCC0000"
+ "Firebrick": "0xB22222",
+ "FloralWhite": "0xFFFAF0",
+ "AliceBlue": "0xF0F8FF",
+ "LightGreen": "0x90EE90",
+ "LightSteelBlue": "0xB0C4DE",
+ "DeepskyBlue" : "0x00BFFF"
 }
