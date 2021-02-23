@@ -14,4 +14,9 @@ Also I highly suggest that you turn on Auto Save, hop on VSC, Go to File, scroll
 Open config.json and add the tokens, cookies and prefix yourself.
 Run `npm start` or `node .` on your terminal (In Visual Studio Code).
 *Voila!* Bot is running. Though you need a hosting to make it go online 24/7, I personally suggest Heroku.
-Have fun!
+
+# Notes
+
+- Read noblox.js documentation beforehand ( https://noblox.js.org/ )
+- It's very simple to set up. Configurations are in config.json file
+- I also made a colors.json file (no idea why, was hoping to make more colors soo, it might be convenient to some of you?)
