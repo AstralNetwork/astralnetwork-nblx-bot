@@ -11,7 +11,7 @@ nblx.setCookie(cookie);
 bot.on("ready", () => {
     nblx.getCurrentUser().then(currentuser => {
         if(!currentuser)
-    console.warn("You forgot to add a cookie to config.json...")
+    console.warn("You forgot to add a cookie to config.json u dummy...")
     else
     console.log(`Logged on Discord: ${bot.user.tag} \nCurrent Roblox user: ${currentuser.UserName} \nCurrent userId: ${currentuser.UserID}`)})
  bot.user.setPresence({
