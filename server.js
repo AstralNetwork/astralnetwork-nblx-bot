@@ -2,7 +2,7 @@ const Discord = require("discord.js");
 const bot = new Discord.Client();
 const { prefix, token, cookie, color, GroupId } = require("./config.json");
 const nblx = require("noblox.js"); 
-const {GREEN, RED} = require("./colors.json");
+const {Green, Red} = require("./colors.json");
 const bloxy = require("bloxy"); //shhh
 const fs = require("fs")
 
