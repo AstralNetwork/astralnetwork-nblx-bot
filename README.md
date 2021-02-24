@@ -13,6 +13,7 @@ First, download the files.
 Open it in Visual Studio Code.
 Also I highly suggest that you turn on Auto Save. Hop on VSC, Go to File, scroll down and click on Autosave.
 Open config.json and add the tokens, cookies and prefix yourself.
+Install noblox.js by running `npm i -g noblox.js` and `npm i discord.js`
 Run `npm start` or `node .` on your terminal (In Visual Studio Code).
 *Voila!* Bot is running. Though you need a hosting to make it go online 24/7, I personally suggest Heroku. More info on it ( https://anidiots.guide/hosting )
 
